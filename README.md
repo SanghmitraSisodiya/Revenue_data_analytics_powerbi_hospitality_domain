@@ -25,21 +25,21 @@ Provided Mock-up Dashboard
 ## Skills Learnt - 
 ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis, Power Query, Finding Insights, Storytelling through Data, Data Visualization
 
-### Some Important insights from the Dashboard
+## Some Important insights from the Dashboard
+
 AtliQ lost around 298 Million in cancellation
+
 Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+
 AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+
 AtliQ Bay has the highest occupancy of 66%
+
 Week 24 recorded the highest revenue among all, which is 139.6 Million
+
 Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 
-## Feel free to go through the dataset and project.
-
-#ttps://github.com/SanghmitraSisodiya/Restaurant_data_analysis_PowerBI)
-
-Data Analysis and Visualization Tool - **PowerBI  
-
-
+### Feel free to go through the dataset and project.
 
 [PowerBI Portfolio] - (https://lnkd.in/g4_PtqjM)
 
