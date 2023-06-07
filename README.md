@@ -1,8 +1,6 @@
 # AtliQ Grands Hospitality Analysis - PowerBI - Data Analysis and Visualization
 ## 📊 Data Analysis Project 📈 
-### Project by Sanghmitra Sisodiya [LinkedIn](https://in.linkedin.com/in/sanghmitra-sisodiya-229986173)
-### [Github](https://github.com/SanghmitraSisodiya) 
-### [Live Dashboard](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
+### - by Sanghmitra Sisodiya [LinkedIn](https://in.linkedin.com/in/sanghmitra-sisodiya-229986173) | ### [Github](https://github.com/SanghmitraSisodiya) | ### [Live Dashboard](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
 ![Screenshot of Hotel for reference purpose only](https://www.luxuryhotelawards.com/wp-content/uploads/sites/8/2023/03/Thanes-Piamnamai-251-scaled.jpg)
 
 This Data anaysis project is a part of the codebasics resume challenge program.
